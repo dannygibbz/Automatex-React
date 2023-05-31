@@ -7,7 +7,7 @@ const WhatAutomatex = () => (
     <div className="automatex__whatautomatex-feature">
       <Feature
         title="What is AutomateX"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+        text=" Collaborating to develop a targeted engagement strategy, leveraging Gainsight PX's capabilities to drive user adoption, feature utilization, and customer satisfaction, defining engagement goals, creating tailored messaging, and implementing effective tactics.*Services marked with an asterisk are strategy-focused offerings where consultants work closely with clients to develop comprehensive strategies aligned with their business objectives and leveraging the capabilities of Gainsight PX*"
       />
     </div>
     <div className="automatex__whatautomatex-heading">
