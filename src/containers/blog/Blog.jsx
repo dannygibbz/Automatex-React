@@ -7,7 +7,7 @@ const Blog = () => (
   <div className="automatex__blog section__padding" id="blog">
     <div className="automatex__blog-heading">
       <h1 className="gradient__text">
-        A lot is happening, <br /> We are capturing it. Testing text.
+        A lot is happening, <br /> We are capturing it.
       </h1>
     </div>
     <div className="automatex__blog-container">
