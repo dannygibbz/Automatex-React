@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-
-import logo from "../../logo.svg";
+import icon from "../../assets/favicon.png";
 import "./navbar.css";
 
 const Navbar = () => {
@@ -9,9 +8,7 @@ const Navbar = () => {
   return (
     <div className="automatex__navbar">
       <div className="automatex__navbar-links">
-        <div className="automatex__navbar-links_logo">
-          <img src={logo} />
-        </div>
+        <div className="automatex__navbar-links_logo"></div>
         <div className="automatex__navbar-links_container">
           <p>
             <a href="#home">Home</a>

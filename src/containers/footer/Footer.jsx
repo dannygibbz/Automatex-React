@@ -5,8 +5,8 @@ import "./footer.css";
 const Footer = () => (
   <div className="automatex__footer section__padding">
     <div className="automatex__footer-heading">
-      <h1 className="gradient__text">
-        Do you want to step in to the future before others
+      <h1 style={{ color: "white" }}>
+        Do you want to step in to the future before others?
       </h1>
     </div>
 
