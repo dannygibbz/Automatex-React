@@ -15,7 +15,7 @@ const Blog = () => (
         <Article
           imgUrl={blog01}
           date="May 26, 2023"
-          text="Experience Automation is the future. Let's explore it together."
+          text="Experience Automation is the future. Let's explore it together. Testing Text."
         />
       </div>
       <div className="automatex__blog-container_groupB">
